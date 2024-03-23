@@ -50,6 +50,7 @@ li {
     background-color: #fff;
     border: 1px solid #ccc;
     border-radius: 5px;
+    width: 477px;
 }
 
 li:hover {
@@ -57,11 +58,8 @@ li:hover {
 }
 
 .deleteButton {
-    position: relative;
-    top: 50%;
-    left: 80%;
-    width: 95px;
-  
+    position:absolute;
+    right: 300px;
+    margin: -10px;
 }
-
 
